@@ -6,4 +6,5 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r# github-final-project
-2023 @XYZ
+2022 @XYZ
+
